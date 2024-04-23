@@ -1,6 +1,6 @@
 # Happy Birthday
 
-Website - [Happy Birthday](https://Uzairakra.github.io/happy-birthday/)
+Website - [Happy Birthday](https://Uzairakra.github.io/birthdayx/)
 
 An easy to deploy, Happy Birthday animation design TEMPLATE.
 
